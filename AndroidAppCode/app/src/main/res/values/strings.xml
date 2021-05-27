@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SecurityCamera</string>
+    <string name="email_id">EMAIL ID</string>
+    <string name="hint">hint</string>
+    <string name="password">Password</string>
+    <string name="ipAddress">http://10.147.17.147:5000/</string>
+    <string name="saved_faces">Saved Faces</string>
+</resources>
